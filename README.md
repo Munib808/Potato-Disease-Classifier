@@ -1,4 +1,5 @@
 ### **Potato Disease Classification | Deep Learning & Computer Vision**
+Try Live App : https://potato-disease-classifiergit-paijz8qhhkvk5epjtcmecv.streamlit.app/
 This project uses a MobileNet-based CNN to automatically classify potato leaf images into Early Blight, Late Blight, and Healthy categories. The model is trained on labeled image data and deployed as a web application, enabling fast, accurate, and accessible disease detection for agricultural support.
 
 * **Data Engineering:** Processed and optimized a dataset of **2,152 images** from the PlantVillage collection, implementing `tf.keras.preprocessing` for efficient data loading and batching.
