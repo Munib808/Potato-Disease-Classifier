@@ -566,6 +566,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 uploaded_file = st.file_uploader(
+    "Choose an image",
     type=["jpg", "jpeg", "png"],
     label_visibility="collapsed"
 )
